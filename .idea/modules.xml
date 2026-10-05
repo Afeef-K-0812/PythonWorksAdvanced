@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DRFWorks/.idea/DRFWorks.iml" filepath="$PROJECT_DIR$/../DRFWorks/.idea/DRFWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataBasePrgrams(DB)/.idea/DataBasePrgrams(DB).iml" filepath="$PROJECT_DIR$/../DataBasePrgrams(DB)/.idea/DataBasePrgrams(DB).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DjangoWorks/.idea/DjangoWorks.iml" filepath="$PROJECT_DIR$/../DjangoWorks/.idea/DjangoWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GitDemoProject/.idea/GitDemoProject.iml" filepath="$PROJECT_DIR$/../GitDemoProject/.idea/GitDemoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HTML/.idea/HTML.iml" filepath="$PROJECT_DIR$/../HTML/.idea/HTML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ObjectOrientedPrograms(OOPs)/.idea/ObjectOrientedPrograms(OOPs).iml" filepath="$PROJECT_DIR$/../ObjectOrientedPrograms(OOPs)/.idea/ObjectOrientedPrograms(OOPs).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonProjectAdvanced.iml" filepath="$PROJECT_DIR$/.idea/PythonProjectAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonWorksCore/.idea/PythonWorksCore.iml" filepath="$PROJECT_DIR$/../PythonWorksCore/.idea/PythonWorksCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RecipeAPI/.idea/RecipeAPI.iml" filepath="$PROJECT_DIR$/../RecipeAPI/.idea/RecipeAPI.iml" />
+    </modules>
+  </component>
+</project>
